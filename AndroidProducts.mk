@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_bladerunner.mk
+    $(LOCAL_DIR)/aosp_bladerunner.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_bladerunner-user \
-    arrow_bladerunner-userdebug \
-    arrow_bladerunner-eng
+    aosp_bladerunner-user \
+    aosp_bladerunner-userdebug \
+    aosp_bladerunner-eng
